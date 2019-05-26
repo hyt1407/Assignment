@@ -1,2 +1,2 @@
 # Assignment
-CSCI964-Computational Intelligence Assignment1
+CSCI964-Computational Intelligence Assignment
